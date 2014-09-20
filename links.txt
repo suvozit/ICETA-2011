@@ -1,0 +1,5 @@
+ICVL	c3.icvl.eu/2011
+	http://www.scribd.com/doc/69421046/Proceedings-of-ICVL-2011-ISSN-1844-8933-ISI-Proceedings
+
+ICETA	www.iceta.sk/main.php?pgID=uvod&lang=en
+	http://www.iceta.sk/proceedings/
